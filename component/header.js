@@ -54,7 +54,7 @@ class Header extends HTMLElement{
 								<div id="profileMenu" class="profileMenu">
 									<ul class="">
 										<li class="">
-											<a class="" href="./Spotify-songs/songs.html">Welcome</a> 
+											<a class="" href="#">Welcome</a> 
 										</li>
 								
 									</ul>
